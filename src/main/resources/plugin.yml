@@ -1,0 +1,4 @@
+name: WebServerPlugin
+version: '${version}'
+main: com.example.webserverplugin.WebServerPlugin
+api-version: '1.20'

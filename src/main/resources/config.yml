@@ -1,0 +1,5 @@
+# Web服务器监听的端口号
+port: 8080
+
+# HTML文件存放目录（相对于插件数据目录）
+html-directory: "html"
